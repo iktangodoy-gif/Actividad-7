@@ -79,7 +79,8 @@ Antes de que existieran los sistemas informáticos, hacer un trámite en el banc
 | **Pagos y cobros** | Uso exclusivo de efectivo, cheques impresos o giros que tardaban días en hacerse efectivos. | Pagos digitales inmediatos mediante transferencias, tarjetas, códigos QR o billeteras móviles. |
 
 ## 12. Compara cómo se manejan los datos en Excel frente a una base de datos real. ¿Cuáles son las diferencias principales? Responde a la anterior pregunta. 
-s
+
+
 | Criterio | Excel / Hojas de Cálculo | Base de Datos (SQL) |
 | :--- | :--- | :--- |
 | **Capacidad** | Limitada (~1M de filas) | Prácticamente ilimitada (Terabytes) |
